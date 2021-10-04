@@ -1,3 +1,3 @@
-# Matemátiques de Batxillerat 
+# Matemàtiques de Batxillerat 
 
 
